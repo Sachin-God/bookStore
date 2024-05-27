@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name":"Python Data Structures & Algorithms",
+        "imageUrl":"https://ia801807.us.archive.org/BookReader/BookReaderImages.php?zip=/26/items/data-structures-and-algorithms-in-python-pdfdrive/Data%20Structures%20and%20Algorithms%20in%20Python%20%28%20PDFDrive%20%29_jp2.zip&file=Data%20Structures%20and%20Algorithms%20in%20Python%20%28%20PDFDrive%20%29_jp2/Data%20Structures%20and%20Algorithms%20in%20Python%20%28%20PDFDrive%20%29_0000.jp2&id=data-structures-and-algorithms-in-python-pdfdrive&scale=4&rotate=0",
+        "downloadUrl":"https://edu.anarcho-copy.org/Programming%20Languages/Python/Python%20Data%20Structures%20and%20Algorithms.pdf",
+        "featured":"true"
+    },
+    {
+        "id":2,
+        "name":"Networking for dummies",
+        "imageUrl":"https://m.media-amazon.com/images/I/61rbK1mNFiL._AC_UF1000,1000_QL80_.jpg",
+        "downloadUrl":"https://theswissbay.ch/pdf/Gentoomen%20Library/Networking/Networking%20All-in-One%20Desk%20Reference%20for%20Dummies%202nd%20Edition.pdf",
+        "featured":"true"
+    },
+    {
+        "id":3,
+        "name":"Web Design HTML & CSS",
+        "imageUrl":"https://www.booksfree.org/wp-content/uploads/2022/03/Web-Design-With-HTML-and-CSS-Digital-Classroom-pdf-free-download.png",
+        "downloadUrl":"https://bawar.net/data0/books/5d626a582939a/pdf/web-design-with-html-and-css-digital-classroom.pdf",
+        "featured":"true"
+    },
+    {
+        "id":4,
+        "name":"Python Black Hat Hacking",
+        "imageUrl":"https://archive.org/services/img/black-hat-python-python-programming-for-hackers-and-pentesters-pdfdrive.com/full/pct:200/0/default.jpg",
+        "downloadUrl":"https://olinux.net/wp-content/uploads/2019/01/python.pdf",
+        "featured":"true"
+    },
+    {
+        "id":5,
+        "name":"Fundamentals of Aerodynamics",
+        "imageUrl":"https://m.media-amazon.com/images/I/518PtWhh3kL._AC_UF1000,1000_QL80_.jpg",
+        "downloadUrl":"https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Aerodynamics.pdf",
+        "featured":"false"
+    },
+    {
+        "id":6,
+        "name":"Matlab Fundamentals",
+        "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3UjOSBWrUbGv9ZXL1UEdiPdle9PqO6Fte-2aPP6cvg&s",
+        "downloadUrl":"http://repo.darmajaya.ac.id/5693/1/matlab_prog.pdf",
+        "featured":"false"
+    },
+    {
+        "id":7,
+        "name":"Introduction to Modern Cryptography",
+        "imageUrl":"https://images.tandf.co.uk/common/jackets/crclarge/978042910/9780429101489.jpg",
+        "downloadUrl":"https://eclass.uniwa.gr/modules/document/file.php/CSCYB105/Reading%20Material/%5BJonathan_Katz%2C_Yehuda_Lindell%5D_Introduction_to_Mo%282nd%29.pdf",
+        "featured":"false"
+    },
+    {
+        "id":8,
+        "name":"DevOps for Dummies",
+        "imageUrl":"https://sdarchitect.files.wordpress.com/2013/10/capture.png",
+        "downloadUrl":"https://www.immagic.com/eLibrary/ARCHIVES/EBOOKS/W150421S.pdf",
+        "featured":"false"
+    },
+    {
+        "id":9,
+        "name":"Backend with Node and Express",
+        "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmg-O_phnbLh9u5wzsZV-ekqvMAtHbKXfiiXlt_MIWA&s",
+        "downloadUrl":"https://www.vanmeegern.de/fileadmin/user_upload/PDF/Web_Development_with_Node_Express.pdf",
+        "featured":"false"
+    },
+    {
+        "id":10,
+        "name":"System Analysis & Design",
+        "imageUrl":"https://0.academia-photos.com/attachment_thumbnails/55266995/mini_magick20220708-21058-t31iao.png?1657291876",
+        "downloadUrl":"https://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/Systemanalysisanddesign.pdf",
+        "featured":"false"
+    }
+]
