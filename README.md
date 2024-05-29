@@ -14,7 +14,7 @@ Key Features:
 
 https://github.com/Sachin-God/bookStore/assets/113123578/a25ba6f3-d3b7-4ed9-b573-8d51b2795d8e
 
-REGISTER PAGE
+# REGISTER PAGE
 ![1](https://github.com/Sachin-God/bookStore/assets/113123578/e0301f31-f425-4a6d-9995-548a33817290)
 
 LOGIN
