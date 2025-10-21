@@ -16,10 +16,10 @@ const corsOptions = {
 
 app.use(cors(corsOptions));
 app.use(express.json()) // parse sent data to json
-const port = process.env.PORT || 4000
+// const port = process.env.PORT || 4000
 
-app.use('/user', userRoute)
-app.use('/books', BookRoute)
+app.use('/api/user', userRoute)
+app.use('/api/books', BookRoute)
 
 // deployment
 // if (process.env.NODE_ENV === 'production'){
@@ -35,4 +35,9 @@ databaseConnection();
 //   console.log(`Example app listening on port ${port}`)
 // })
 
+app.get('/', (req, res) => {
+  res.send({
+    active : "True"
+  })
+})
 export default app;
