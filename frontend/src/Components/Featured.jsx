@@ -40,7 +40,7 @@ export default function Featured() {
     useEffect(() => {
         const getBook = async () => {
             try {
-                const res = await axios.get("http://localhost:5000/books/book");
+                const res = await axios.get("https://book-store-sandy-one.vercel.app/api/books/book");
                 const list = res.data;
                 const filterData = list.filter((item )=> item.featured === true);
                 console.log(list);

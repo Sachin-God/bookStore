@@ -19,7 +19,7 @@ export default function Contact() {
             email:email,
             description: description
         }
-        await axios.post('http://localhost:5000/user/contact',contacts).then((res)=>{
+        await axios.post('https://book-store-sandy-one.vercel.app/api/user/contact',contacts).then((res)=>{
             console.log(res.data);
             if (res.data) {
                 toast.success('Contacted Successfully')

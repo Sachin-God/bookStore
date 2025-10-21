@@ -17,7 +17,7 @@ export default function Login() {
             email: email,
             password: password
         }
-        await axios.post('http://localhost:5000/user/login', user).then((res) => {
+        await axios.post('https://book-store-sandy-one.vercel.app/api/user/login', user).then((res) => {
             console.log(res.data)
             document.getElementById("my_modal_2").close()
             setTimeout(() => {

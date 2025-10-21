@@ -20,7 +20,7 @@ export default function Register() {
             email:email,
             password:password
         }
-        await axios.post('http://localhost:5000/user/register',userinfo).then((res)=>{
+        await axios.post('https://book-store-sandy-one.vercel.app/api/user/register',userinfo).then((res)=>{
             console.log(res.data);
             navigate('/');
             if (res.data) {

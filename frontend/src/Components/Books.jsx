@@ -11,7 +11,7 @@ export default function Books() {
   useEffect(() => {
     const getBook = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/books/book")
+        const res = await axios.get("https://book-store-sandy-one.vercel.app/api/books/book")
         console.log(res.data);
         setBook(res.data);
       }
