@@ -4,6 +4,8 @@ Backend: Node.js, Express
 
 Database: MongoDB
 
+Live : https://book-store-frontend-bay-chi.vercel.app/
+
 Key Features:
 
 🌐 Responsive Design: Leveraged TailwindCSS and daisyUI to create a visually appealing and responsive user interface.
