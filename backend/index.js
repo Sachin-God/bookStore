@@ -31,6 +31,8 @@ app.use('/books', BookRoute)
 // }
 
 databaseConnection();
-app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
-})
+// app.listen(port, () => {
+//   console.log(`Example app listening on port ${port}`)
+// })
+
+export default app;
